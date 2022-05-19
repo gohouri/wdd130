@@ -28,14 +28,14 @@ img {
     max-width: 955px;
 } 
 .icon {
-    width: 50px;
+    width: 80px;
 } 
 .img{
     width:fit-content;
     margin:initial
 }
 .logo{
-    width: 100px;
+    width: 80px;
     text-align:right
 }
 nav a {
@@ -44,7 +44,7 @@ nav a {
     text-decoration: none;
 } 
 #content {
-    max-width: 960px;
+    max-width: 1600px;
     margin:0 auto;
     background-color:rgb(255, 242, 228)
   }
